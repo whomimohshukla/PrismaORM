@@ -1,0 +1,20 @@
+{
+  "ignoreDeprecations": "6.0",
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./dist",
+    // "allowImportingTsExtensions": true,
+
+    "module": "commonjs",
+    "target": "es2017",
+    // "moduleResolution": "node",
+    "esModuleInterop": true,
+
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
